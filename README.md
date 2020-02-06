@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Cryptocurrency Portfolio Calculator App built using a Rails backend and a React.js frontend, with data being fetched from the CoinMarketCap API. The app allows a user to search from over 1,300 different assets, specify the size of their holding, and view the value of that asset as well as the total value of their portfolio.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Video Demo: https://youtu.be/KisLotnrDKQ
