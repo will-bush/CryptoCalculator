@@ -139,3 +139,10 @@
     margin: 5px 15px 0 0;
     transition: ease-in-out 0.3s;
   }
+
+.currency-list-item:hover {
+    background:#eee;
+    cursor:pointer;
+    margin: 10px 15px 10px 0;
+  }
+
