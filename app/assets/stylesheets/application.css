@@ -122,3 +122,8 @@
   .portfolio-value--content{
    font-size:30px;
   }
+
+.currency-list {
+    display:flex;
+    flex-direction: column
+  }
